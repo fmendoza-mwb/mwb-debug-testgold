@@ -1,0 +1,17 @@
+{
+  "name": "debug-testgold",
+  "version": "1.0.0",
+  "description": "Temp repository for debugging TestGold with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "7.3.0"
+  },
+  "dependencies": {
+    "@aichemy/testgold-cypress-plugin": "^1.5.2"
+  }
+}
